@@ -1,11 +1,16 @@
+---
+title: "%%%%"
+line: "hello world www"
+---
+
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
-    <title>你好，GitHub</title>
+    <title>{{ page.title }}</title>
   </head>
   <body>
-    <h1>覺得厲害</h1>
+    <h1>{{ page.line | upcase}}</h1>
   </body>
 </html>
 
