@@ -1,12 +1,7 @@
-<!-- <nav>
-    <a href="/">Home</a>
-    <a href="/ThingsToLearn.html">Things To Learn</a>
-</nav> -->
 <nav>
-    <a href="/" {% if page.url == "/" %}style="color: red; font-size: 150%;"{% endif %}>
-      Home
-    </a>
-    <a href="/ThingsToLearn.html" {% if page.url == "/ThingsToLearn.html" %}style="color: red; font-size: 150%;"{% endif %}>
-      Things To Learn
-    </a>
+    {% for item in site.data.navigation %}
+      <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red; font-size: 150%; font-family: verdana"{% endif %}>
+        {{ item.name }}
+      </a>
+    {% endfor %}
   </nav>
