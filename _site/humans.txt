@@ -1,0 +1,22 @@
+/* TEAM */
+
+Name: CHENG PO-SHENG
+Site: http://bencer3283.github.io
+Twitter: @ben3283
+
+
+/* THANKS */
+
+Name: Moritz »mo.« Sauer
+Role: Creator of the Theme
+Site: http://mo.phlow.de/
+Twitter: @phlow
+Theme: http://phlow.github.io/feeling-responsive/
+
+
+/* SITE */
+
+Last Updated: 2020/08/07
+Standards: HTML5, CSS3
+Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
+Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal
