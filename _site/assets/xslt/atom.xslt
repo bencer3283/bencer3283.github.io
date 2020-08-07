@@ -206,12 +206,12 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/experiences/intern_at_PW_2019.html">Intern at Photonic Workshop</a></li>
+                      <li><a  href="http://localhost:4000/experiences/intern_at_PW_2019/">Intern at Photonic Workshop</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/experiences/AssociateCurator.html">Associate curator of VIBES</a></li>
+                      <li><a  href="http://localhost:4000/experiences/AssociateCurator/">Associate curator of VIBES</a></li>
                     
                   </ul>
 
