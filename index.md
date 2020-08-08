@@ -1,8 +1,9 @@
 ---
 layout: page
 header:
-    image: "home_header.jpg"
-    background-color: "#fabb00"
+    image_fullwidth: home_header.jpg
+    caption: 
+    caption_url: 
 ---
 
 # CHENG PO-SHENG
