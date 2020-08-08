@@ -3,7 +3,7 @@
   side: left
 
 - title: "Education"
-  url: "/education.html"
+  url: "/education/"
   side: left
   dropdown:
   - title: "School"
@@ -12,13 +12,15 @@
     url: "/education/p&c/"
 
 - title: "PRO. Experiences"
-  url: "/experiences/experience.html"
+  url: "/experiences/"
   side: left
   dropdown:
   - title: "Intern at Photonic Workshop"
     url: "/experiences/intern_at_PW_2019/"
-  - title: "Associate curator of VIBES"
-    url: "/experiences/AssociateCurator/"  
+  - title: "Associate curator of <VIBES>"
+    url: "/experiences/AssociateCurator/"
+  - title: "Chief editor of school yearbook, CKSH"
+    url: "/experiences/CKyearbook/"   
 
 - title: "Art Creation"
   url: "https://www.dropbox.com/s/puuvt4l13nqbpzs/portfolio.pdf?dl=0"
