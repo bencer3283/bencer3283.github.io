@@ -1,5 +1,18 @@
+---
+layout: page
+title: Contact
+header:
+    image_fullwidth: home_header.jpg
+    caption: 
+    caption_url: 
+---
+
 - phone: +886-910094213
 - email: bencer@outlook.com
 - [Line](https://line.me/ti/p/s-ITGHFCtJ)
 - [Telegram](https://t.me/bencer3283)
-- [Linkedin](www.linkedin.com/in/poshengs)
+- Social media
+    - [Linkedin](www.linkedin.com/in/poshengs)
+    - [Facebook](http://www.facebook.com/bencercheng)
+    - [Twitter](http://twitter.com/@ben3283)
+    - [Instagram](http://instagram.com/bencer3283)
