@@ -2,8 +2,8 @@
 layout: page
 header:
     background-color: "#00a2fa"
+title: Academic project and class
 ---
-# Academic project and class
 
 ## Mechatronics: Line tracker and Maze runner
 ### class: 
@@ -34,6 +34,13 @@ header:
 - Laser cutting
 
 [see result](https://drive.google.com/file/d/1BYZLU4yTPGvUJkjnNEjisPtixb3QtqIa/view?usp=sharing)
+
+## Cell biology and tissue engineering
+### class:
+- (1st Semester 2019/2020) Animal Cell Culture and Its Practice 
+
+### skill:
+- basic cell culture
 
 ## Basic Indonisian
 ### class:
