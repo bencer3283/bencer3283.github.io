@@ -1,7 +1,8 @@
 ---
 layout: page
 header:
-    image_fullwidth: "home_header.jpg"
+    image: "home_header.jpg"
+    background-color: "#fabb00"
 ---
 
 # CHENG PO-SHENG
