@@ -1,0 +1,5 @@
+- phone: +886-910094213
+- email: bencer@outlook.com
+- [Line](https://line.me/ti/p/s-ITGHFCtJ)
+- [Telegram](https://t.me/bencer3283)
+- [Linkedin](www.linkedin.com/in/poshengs)
