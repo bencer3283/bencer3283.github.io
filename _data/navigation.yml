@@ -9,9 +9,9 @@
   - title: "School"
     url: "/education/school/"
   - title: "Project & Class"
-    url: "/education/skill/"
+    url: "/education/p&c/"
 
-- title: "Experiences"
+- title: "PRO. Experiences"
   url: "/experiences/experience.html"
   side: left
   dropdown:
@@ -19,3 +19,7 @@
     url: "/experiences/intern_at_PW_2019/"
   - title: "Associate curator of VIBES"
     url: "/experiences/AssociateCurator/"  
+
+- title: "Art Creation"
+  url: "https://www.dropbox.com/s/puuvt4l13nqbpzs/portfolio.pdf?dl=0"
+  side: left
