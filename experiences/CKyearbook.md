@@ -2,10 +2,10 @@
 layout: page
 header:
     background-color: "#fabb00"
-title: President
+title: Chairman
 ---
 
-`70th committe for school yearbook editing, CKSH`
+`70th committe for school yearbook editing, CKSH, 2017-2018`
 
 In the committe I worked as a team leader of around 100 members. Besides the actual editing itself, there is also a lot of coordinating, including work coopertion within the organization and working closely with our partner in the printing, fabric dying department while complying with the school's regulations.
 

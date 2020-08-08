@@ -22,7 +22,16 @@
   - title: "Chief editor of school yearbook, CKSH"
     url: "/experiences/CKyearbook/" 
   - title: "Host, Opinion Investigation on CKSH"
-    url: "/experiences/CKgirls/" 
+    url: "/experiences/CKgirls/"
+
+- title: "Organization"
+  url: "/organization/"
+  side: left
+  dropdown:
+  - title: "President of CKPC"
+    url: "/organization/ckpc/"
+  - title: "Host of NTU sunshiner summer camp"
+    url: "/organization/sunsun/"   
 
 - title: "Art Creation"
   url: "https://www.dropbox.com/s/puuvt4l13nqbpzs/portfolio.pdf?dl=0"
