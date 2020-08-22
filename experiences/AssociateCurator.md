@@ -13,9 +13,9 @@ As a curator, I have to lead a team of around 15 members. My work includes the s
 
 The exhibition display the photography work of CKPC in recent year. The highlight is the news photo works that depicted the incidents around CK high school as well as the taipei city.
 
-![Marketing cards for the exhibition, which is made by me](https://i.imgur.com/cRroKHb.jpg)
-![Marketing cards for the exhibition, which is made by me](https://i.imgur.com/pjIBSpS.jpg)
-&uarr; Marketing cards for the exhibition, which is made by me
+![Marketing material for the exhibition, which is made by me](https://i.imgur.com/cRroKHb.jpg)
+![Marketing material for the exhibition, which is made by me](https://i.imgur.com/pjIBSpS.jpg)
+&uarr; Marketing material for the exhibition, which is made by me
 
 ## Relevent skills:
 - Adobe illustrator, Photoshop, Indesign
