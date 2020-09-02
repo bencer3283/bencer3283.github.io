@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 header:
     image: "logo.png"
     background-color: "#00a2fa"
@@ -34,7 +34,7 @@ title: Academic project and class
 - 3D printing (and slicing)
 - Laser cutting
 
-[see result](https://drive.google.com/file/d/1BYZLU4yTPGvUJkjnNEjisPtixb3QtqIa/view?usp=sharing)
+[see result](https://bencer3283.github.io/docs/mechanicsReport.pdf)
 
 ## Cell biology and tissue engineering
 ### class:
