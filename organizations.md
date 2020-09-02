@@ -2,7 +2,7 @@
 layout: page
 header:
     image: "logo.png"
-    background-color: "#fabb00"
+    background-color: "#c000fa"
 title: Organization Participation
 ---
 
