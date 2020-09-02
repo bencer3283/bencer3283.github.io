@@ -10,7 +10,7 @@ title: Academic project and class
 ### class: 
 - (2nd Semester 2018/2019) Principles and Applications of Microcontrollers-Mechatronics (1), **A+**
 
-[see final report](https://drive.google.com/file/d/1jkH3s0UiruxpgFFvK7WJk3gC4RAzGuQd/view?usp=sharing)
+[see final report](https://bencer3283.github.io/docs/MachetronicsFinalReport)
 ### involved skill:
 - microcontroller(ATmega 328p)
 - embaded C++
