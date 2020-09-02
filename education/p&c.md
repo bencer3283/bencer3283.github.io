@@ -1,6 +1,7 @@
 ---
 layout: page
 header:
+    image: "logo.png"
     background-color: "#00a2fa"
 title: Academic project and class
 ---

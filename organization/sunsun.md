@@ -1,6 +1,7 @@
 ---
 layout: page
 header:
+    image: "logo.png"
     background-color: "#c000fa"
 title: Host    
 ---

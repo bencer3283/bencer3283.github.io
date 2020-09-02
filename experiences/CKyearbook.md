@@ -1,6 +1,7 @@
 ---
 layout: page
 header:
+    image: "logo.png"
     background-color: "#fabb00"
 title: Chairman
 ---

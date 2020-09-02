@@ -1,6 +1,7 @@
 ---
 layout: page
 header:
+    image: "logo.png"
     background-color: "#fabb00"
 title: Host, Opinion Investigation on "Should CKSH recruit girls ?"
 ---

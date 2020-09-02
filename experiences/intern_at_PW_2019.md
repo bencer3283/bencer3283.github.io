@@ -1,11 +1,12 @@
 ---
 layout: page
 header:
+    image: "logo.png"
     background-color: "#fabb00"
 title: Intern, 2019
 ---
 
-`Photonic Workshop, CCMS, National Taiwan University 2019/07-2019/08`
+`Photonic Workshop, CCMS, National Taiwan University, JUL 2019 - AUG 2019`
 
 ---
 
