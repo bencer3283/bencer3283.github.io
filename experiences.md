@@ -7,7 +7,7 @@ title: Professional Experiences
 ---
 
 - Intern
-    - Center for Condensed Matter Science, National Taiwan University
+    - Photonic Workshop, Center for Condensed Matter Science, National Taiwan University
     - JUL 2019 - AUG 2019
 
 - Associate Curator
