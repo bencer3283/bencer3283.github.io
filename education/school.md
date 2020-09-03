@@ -6,7 +6,9 @@ header:
 title: Schools
 ---
 ## National Taiwan University
-Third year as a undergraduate student. Pursuing *Bechalor of Engineering* of [**Bio-Mechatronics**](https://www.bime.ntu.edu.tw/) and *Bechalor of Art* of [**Economics**](http://www.econ.ntu.edu.tw/).
+Third year as a undergraduate student pursuing the following degrees. 
+- *Bechalor of Engineering* of [**Bio-Mechatronics**](https://www.bime.ntu.edu.tw/)
+- *Bechalor of Art* of [**Economics**](http://www.econ.ntu.edu.tw/).
 
 ---
 

@@ -10,7 +10,7 @@ title: Host
 
 ---
 
-As a Host of 2020 summer camp, I have to lead a core team of 6 member and coordinate with 31 volunteer teachers. Public relation with parents, schools and marketing are also my primary duty. 
+As a Host of 2020 summer camp, I have to lead a core team of 6 member and coordinate with 31 volunteer teachers. Public relation with parents, schools and marketing are also my primary duties. 
 
 ![](https://i.imgur.com/YVeiDMa.jpg)
 &uarr; Me and my partners and students.
