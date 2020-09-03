@@ -5,6 +5,7 @@ header:
     background-color: "#fabb00"
 title: Host, Opinion Investigation on "Should CKSH recruit girls ?"
 ---
+
 `2016 - 2017 by CKPC, cheng po sheng, kuo ui jei, tang fu yo`
 
 ---
@@ -14,6 +15,6 @@ This investigation came from the news that CKSH is considering recruiting girls,
 - investigation on CKSH [students](https://bencer3283.github.io/docs/student.pdf)
 - invetigation on CKSH [parents](https://bencer3283.github.io/docs/parents.pdf)
 
-## Relevnet skill:
+## Relevent skill:
 - SPSS
 - statics (logistics regression) 

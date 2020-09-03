@@ -2,7 +2,7 @@
 layout: page
 header:
     image: "logo.png"
-    background-color: "#c000fa"
+    background-color: "#ed5891"
 title: Organization Participation
 ---
 
@@ -13,3 +13,7 @@ title: Organization Participation
 - Host
     - 8th NTU Sunshiner summer camp
     - APR 2020 - AUG 2020
+
+- Member
+    - Student Association of College of Bio-Resources and Argiculture
+    - FEB 2020 - JUL 2020

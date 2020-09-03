@@ -3,7 +3,7 @@
   side: left
 
 - title: "Education"
-  url:
+  url: "/education/school/"
   side: left
   dropdown:
   - title: "School"
@@ -31,7 +31,9 @@
   - title: "President of CKPC"
     url: "/organization/ckpc/"
   - title: "Host of NTU sunshiner summer camp"
-    url: "/organization/sunsun/"   
+    url: "/organization/sunsun/"  
+  - title: "Member of NTU SACBA"
+    url: "/organization/ntuABC/"
 
 - title: "Art Creation"
   url: "https://bencer3283.github.io/docs/portfolio.pdf"

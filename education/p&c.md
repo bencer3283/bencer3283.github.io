@@ -6,6 +6,13 @@ header:
 title: Academic project and class
 ---
 
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 ## Mechatronics: Line tracker and Maze runner
 ### class: 
 - (2nd Semester 2018/2019) Principles and Applications of Microcontrollers-Mechatronics (1), **A+**
