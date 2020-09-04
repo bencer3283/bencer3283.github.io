@@ -5,7 +5,7 @@ header:
     background-color: "#00a2fa"
 title: Academic project and class
 ---
-
+---
 <div class="panel radius" markdown="1">
 **Table of Contents**
 {: #toc }
