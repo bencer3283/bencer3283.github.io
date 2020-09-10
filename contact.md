@@ -12,7 +12,7 @@ header:
 - [Line](https://line.me/ti/p/s-ITGHFCtJ)
 - [Telegram](https://t.me/bencer3283)
 - Social media
-    - [Linkedin](www.linkedin.com/in/poshengs)
+    - [Linkedin](https://www.linkedin.com/in/posheng)
     - [Facebook](http://www.facebook.com/bencercheng)
     - [Twitter](http://twitter.com/@ben3283)
     - [Instagram](http://instagram.com/bencer3283)

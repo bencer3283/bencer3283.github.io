@@ -15,7 +15,9 @@
   url: "/experiences/"
   side: left
   dropdown:
-  - title: "Intern at Photonic Workshop"
+  - title: "Intern at Photonic Workshop, 2020"
+    url: "/experiences/intern_at_PW_2020/"
+  - title: "Intern at Photonic Workshop, 2019"
     url: "/experiences/intern_at_PW_2019/"
   - title: "Associate curator of <VIBES>"
     url: "/experiences/AssociateCurator/"

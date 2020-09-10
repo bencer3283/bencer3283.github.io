@@ -6,14 +6,14 @@ header:
 title: Organization Participation
 ---
 ---
-- President
+- [President](/organization/ckpc)
     - 43rd President of Chien Kuo Senior High Photography Club
     - 2016 - 2017
 
-- Host
+- [Host](/organization/sunsun)
     - 8th NTU Sunshiner summer camp
     - APR 2020 - AUG 2020
 
-- Member
+- [Member](/organization/ntuABC)
     - Student Association of College of Bio-Resources and Argiculture
     - FEB 2020 - JUL 2020
