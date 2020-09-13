@@ -3,7 +3,8 @@ layout: page
 header:
     image: "logo.png"
     background-color: "#ed5891"
-title: Member   
+title: Member
+breadcrumb: true
 ---
 
 `team on Intern-season activities, Student Association of College of Bio-Resources and Argiculture, FEB 2020 - JUL 2020`

@@ -4,6 +4,7 @@ header:
     image: "logo.png"
     background-color: "#fabb00"
 title: Chairman
+breadcrumb: true
 ---
 
 `70th committe for school yearbook editing, CKSH, 2017-2018`

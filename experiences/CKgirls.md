@@ -4,6 +4,7 @@ header:
     image: "logo.png"
     background-color: "#fabb00"
 title: Host, Opinion Investigation on "Should CKSH recruit girls ?"
+breadcrumb: true
 ---
 
 `2016 - 2017 by CKPC, cheng po sheng, kuo ui jei, tang fu yo`

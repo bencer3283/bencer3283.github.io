@@ -4,6 +4,7 @@ header:
     image: "logo.png"
     background-color: "#fabb00"
 title: Associate curator, VIBES
+breadcrumb: true
 ---
 
 `VIBES, 5th Art Exhibition of photography at CKSH, 2018`

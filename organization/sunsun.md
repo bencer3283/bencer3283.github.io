@@ -3,7 +3,8 @@ layout: page
 header:
     image: "logo.png"
     background-color: "#ed5891"
-title: Host    
+title: Host
+breadcrumb: true   
 ---
 
 `8th NTU Sunshiner summer camp, APR. 2020 - AUG. 2020`

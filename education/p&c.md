@@ -4,6 +4,7 @@ header:
     image: "logo.png"
     background-color: "#00a2fa"
 title: Academic project and class
+breadcrumb: true
 ---
 ---
 <div class="panel radius" markdown="1">

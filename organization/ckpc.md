@@ -4,6 +4,7 @@ header:
     image: "logo.png"
     background-color: "#ed5891"
 title: President   
+breadcrumb: true
 ---
 
 `43rd President of Chien Kuo Senior High Photography Club, 2016 - 2017`
