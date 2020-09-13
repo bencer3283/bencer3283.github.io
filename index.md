@@ -14,7 +14,7 @@ widget2:
 widget1:
     title: "Experiences"
     url: '/experiences/'
-    text: 'Diversified experience in different fields, including <b>eletronics/optics/software engineering, art, statics, photography</b> and more. Along with lots of experiences as a <b>team leader</b>, I am ready to take on chanllenges that needs integration of various fields.'
+    text: 'Diversified experience in different fields, including <b>eletronics/optics/software engineering, art, statistics, photography</b> and more. Along with lots of experiences as a <b>team leader</b>, I am ready to take on chanllenges that needs integration of various fields.'
 ---
 
 ---
