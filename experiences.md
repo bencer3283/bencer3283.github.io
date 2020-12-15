@@ -8,6 +8,10 @@ title: Professional Experiences
 
 ---
 
+- [Gold Medalist, 19th Mobileheroes Awards](/experiences/5G)
+    - category of 5G innovative application.
+    - SEP 2020 - DEC 2020
+
 - [Intern, 2020](/experiences/intern_at_PW_2020)
     - Photonic Workshop, Center for Condensed Matter Science, National Taiwan University
     - AUG 2020 - SEP 2020

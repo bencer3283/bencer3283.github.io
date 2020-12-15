@@ -15,6 +15,8 @@
   url: "/experiences/"
   side: left
   dropdown:
+  - title: "Golden Medalist, 19th Mobileheroes Awards"
+    url: "/experiences/5G/"
   - title: "Intern at Photonic Workshop, 2020"
     url: "/experiences/intern_at_PW_2020/"
   - title: "Intern at Photonic Workshop, 2019"
