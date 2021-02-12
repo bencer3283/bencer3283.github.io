@@ -3,15 +3,17 @@ layout: page
 header:
     image: "logo.png"
     background-color: "#ed5891"
-title: Member
+title: Manager of Academic Activity
 breadcrumb: true
 ---
 
-`team on Intern-season activities, Student Association of College of Bio-Resources and Argiculture, FEB 2020 - JUL 2020`
+`team on Intern-season activities, Student Association of College of Bio-Resources and Argiculture, FEB 2020 - JAN 2021`
 
 ---
 
 Our team set out to bring information that dives into the industry to students. During the time I was in the team, we want to introduce Farmer's Association in taiwan to students. Followings are the report, interview and article we made.
+
+Moreover, we also hosted a lot of visiting activities for NTU student to have a deeper dive into industry insight. Following are the photos from our visitings to ALECHEMIST 禾餘麥酒 and Formosa Fortune Group, which is the pioneer of Taiwan's pig industry.
 
 &darr; Article on Ping Lin Farmer's Association
 <div>

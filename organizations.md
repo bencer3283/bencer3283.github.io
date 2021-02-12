@@ -14,6 +14,6 @@ title: Organization Participation
     - 8th NTU Sunshiner summer camp
     - APR 2020 - AUG 2020
 
-- [Member](/organization/ntuABC)
+- [Manager of Academic Activity](/organization/ntuABC)
     - Student Association of College of Bio-Resources and Argiculture
-    - FEB 2020 - JUL 2020
+    - FEB 2020 - JAN 2021
