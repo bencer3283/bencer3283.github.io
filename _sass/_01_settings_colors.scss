@@ -72,7 +72,7 @@ $grey-16: #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: $body-bg;
+$topbar-bg-color: $ci-1;
 $topbar-bg: $topbar-bg-color;
 
 
@@ -107,12 +107,12 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: $grey-8;
+$footer-bg: $ci-1;
 $footer-color: #fff;
 $footer-link-color: $grey-4;
 
 
-$subfooter-bg: $grey-13;
+$subfooter-bg: $ci-3;
 $subfooter-color: $grey-8;
 $subfooter-link-color: $grey-8;
 
