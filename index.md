@@ -10,7 +10,7 @@ widget3:
 widget2:
     title: "Education"
     url: '/education/school/'
-    text: 'Undergraduate student at <em>National Taiwan University</em>:<br>Bachelor of Engineering in <em>Bio-mechatronics</em><br>Bachelor of Arts in <em>Economics</em>'
+    text: 'Undergraduate student at <em>National Taiwan University</em>:<br>Bachelor of Engineering in <b>Bio-mechatronics</b><br>Bachelor of Arts in <b>Economics</b>'
 widget1:
     title: "Experiences"
     url: '/experiences/'
@@ -19,4 +19,4 @@ widget1:
 
 ---
 
-I am a student based in **Taiwan**. This is my page and you can find my project, portfolio, academic experience and contact here.
+I am a student based in **Taiwan**. This is my personal page and you can find my project, portfolio, academic experience and contact here.
