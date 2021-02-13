@@ -19,6 +19,8 @@ My work involved mainly the adjustment, alignment and calibration of the two ver
 
 The biggest challenge here is is the alignment of the three systems. You can find more details in [this file](/docs/MMS-report.pdf).
 
+Photonic Workshop and its labratorires are supervised and hosted by Doc. *Chang Yu Ming*.
+
 &darr; Micro Mapping System with a OM comprised of commercial camera and LSCM.
 ![](https://i.imgur.com/MwuA5Dp.jpg)
 ![](https://i.imgur.com/stvOovk.jpg)
