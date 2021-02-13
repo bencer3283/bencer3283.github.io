@@ -17,12 +17,14 @@ Third year as a undergraduate student pursuing the following degrees.
 ### Grades
 GPA, grades point average, full score `4.3`.
 [Complete list of classes and grades.](https://bencer3283.github.io/docs/b07611002_Transcript_20201005231358.pdf)
+- 2020/2021
+    - 1st Semester: `3.82`(PR66@ECON)
 - 2019/2020
-    - 2nd Semester: `3.99`(PR86)
-    - 1st Semester: `3.90`(PR88)
+    - 2nd Semester: `3.99`(PR86@BIME)
+    - 1st Semester: `3.90`(PR88@BIME)
 - 2018/2019
-    - 2nd Semester: `3.75`(PR64)
-    - 1st Semester: `3.94`(PR79)
+    - 2nd Semester: `3.75`(PR64@BIME)
+    - 1st Semester: `3.94`(PR79@BIME)
 
 ---
 

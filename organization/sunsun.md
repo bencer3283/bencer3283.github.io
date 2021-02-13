@@ -16,8 +16,7 @@ As the host of 2020 summer camp, I have to lead a core team of 6 member and coor
 ![](https://i.imgur.com/YVeiDMa.jpg)
 &uarr; Me and my partners and students.
 
+Ntu sunshiners is a student club that provides free english class for underprivileged children in Zhong-Li, taoyuan. Our class blends volcabulary, grammar and games together, and we think english learning resouces are the hardest to access for those families. Our work includes weekend class during school semesters and 3-5 days camp during summer/winter vacations.
+
 ![](https://i.imgur.com/b2FOyZQ.jpg)
 &uarr; Me and partners teaching grade 5-6 students.
-
-
-Ntu sunshiners is a student club that provides free english class for underprivileged children in Zhong-Li, taoyuan. Our class blends volcabulary, grammar and games together, and we think english learning resouces are the hardest to access for those families. Our work includes weekend class during school semesters and 3-5 days camp during summer/winter vacations.
