@@ -11,7 +11,26 @@ Modular Scale › http://www.modularscale.com//?16,36&px&1.25&web&table
 
 @import "functions"; // Allows the use of rem-calc() or lower-bound() in your settings
 
+@font-face {
+    font-family: Univers;
+    src: assets/fonts/UniversRegular;
+}
 
+@font-face {
+    font-family: Sabon;
+    src: assets/fonts/Sabon_Roman;
+}
+
+@font-face {
+    font-family: Sabon;
+    src: assets/fonts/Sabon_Bold;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: RobotoMono;
+    src: assets/fonts/RobotoMono-Regular;
+}
 
 /* Fonts
 ------------------------------------------------------------------- */
@@ -23,14 +42,15 @@ $base-line-height: 1.5 !default;
 
 
 $font-family-sans-serif: Univers, "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-family-serif: "Volkhov", Georgia, Times, serif;
-$font-family-monospace: "Lucida Console", Monaco, monospace;
+$font-family-serif: Sabon, "Volkhov", Georgia, Times, serif;
+$font-family-monospace: RobotoMono, "Lucida Console", Monaco, monospace;
 
 $body-font-family: $font-family-sans-serif;
 $body-font-weight: normal;
 $body-font-style: normal;
 
 $header-font-family: $font-family-serif;
+$header-font-weight: bold;
 
 
 
