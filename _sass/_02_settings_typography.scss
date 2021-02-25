@@ -16,9 +16,17 @@ Modular Scale › http://www.modularscale.com//?16,36&px&1.25&web&table
     src: assets/fonts/UniversRegular;
 }
 
+div {
+    font-family: Univers;
+}
+
 @font-face {
     font-family: Sabon;
     src: assets/fonts/Sabon_Roman;
+}
+
+div {
+    font-family: Sabon;
 }
 
 @font-face {
@@ -30,6 +38,10 @@ Modular Scale › http://www.modularscale.com//?16,36&px&1.25&web&table
 @font-face {
     font-family: RobotoMono;
     src: assets/fonts/RobotoMono-Regular;
+}
+
+div {
+    font-family: RobotoMono;
 }
 
 /* Fonts

@@ -3,7 +3,7 @@ layout: page-fullwidth
 header:
     image: "logo.png"
     background-color: "#00a2fa"
-title: Schools
+title: Schooling
 breadcrumb: true
 ---
 

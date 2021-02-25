@@ -6,7 +6,7 @@
   url: "/education/school/"
   side: left
   dropdown:
-  - title: "School"
+  - title: "Schooling"
     url: "/education/school/"
   - title: "Project & Class"
     url: "/education/p&c/"
