@@ -13,36 +13,27 @@ Modular Scale › http://www.modularscale.com//?16,36&px&1.25&web&table
 
 @font-face {
     font-family: Univers;
-    src: assets/fonts/UniversRegular;
+    src: url(assets/fonts/UniversRegular.ttf);
 }
 
-div {
-    font-family: Univers;
-}
 
 @font-face {
     font-family: Sabon;
-    src: assets/fonts/Sabon_Roman;
+    src: url(assets/fonts/Sabon_Roman.ttf);
 }
 
-div {
-    font-family: Sabon;
-}
 
 @font-face {
     font-family: Sabon;
-    src: assets/fonts/Sabon_Bold;
+    src: url(assets/fonts/Sabon_Bold.ttf);
     font-weight: bold;
 }
 
 @font-face {
     font-family: RobotoMono;
-    src: assets/fonts/RobotoMono-Regular;
+    src: url(assets/fonts/RobotoMono-Regular.ttf);
 }
 
-div {
-    font-family: RobotoMono;
-}
 
 /* Fonts
 ------------------------------------------------------------------- */
