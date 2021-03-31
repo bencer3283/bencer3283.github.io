@@ -11,8 +11,8 @@ breadcrumb: true
 
 ## National Taiwan University
 Third year as a undergraduate student pursuing the following degrees. 
-- *Bechalor of Engineering* of [**Bio-Mechatronics**](https://www.bime.ntu.edu.tw/)
-- *Bechalor of Art* of [**Economics**](http://www.econ.ntu.edu.tw/).
+- *Bechalor of Science* in [**Bio-Mechatronics Engineering**](https://www.bime.ntu.edu.tw/)
+- *Bechalor of Art* in [**Economics**](http://www.econ.ntu.edu.tw/).
 
 ### Grades
 GPA, grades point average, full score `4.3`.
