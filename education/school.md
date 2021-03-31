@@ -16,7 +16,7 @@ Third year as a undergraduate student pursuing the following degrees.
 
 ### Grades
 GPA, grades point average, full score `4.3`.
-[Complete list of classes and grades.](https://bencer3283.github.io/docs/b07611002_Transcript_20201005231358.pdf)
+[Complete list of classes and grades.](https://bencer3283.github.io/docs/b07611002_Transcript_20210330214524.pdf)
 - 2020/2021
     - 1st Semester: `3.82`(PR66@ECON)
 - 2019/2020
