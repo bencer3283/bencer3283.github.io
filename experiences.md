@@ -8,7 +8,7 @@ title: Professional Experiences
 
 ---
 
-- [Championship thesis on induatrial impact of Convid-19](/experiences/covidthesis)
+- [Championship thesis on industrial impact of Covid-19](/experiences/covidthesis)
     - 2021 National Thesis Competition for College Students
     - FEB 2021 - APR 2021
 
