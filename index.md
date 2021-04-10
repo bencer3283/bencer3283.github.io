@@ -10,7 +10,7 @@ widget3:
 widget2:
     title: "Education"
     url: '/education/school/'
-    text: 'Undergraduate student at <em>National Taiwan University</em>:<br>Bachelor of Engineering in <b>Bio-mechatronics</b><br>Bachelor of Arts in <b>Economics</b>'
+    text: 'Undergraduate student at <em>National Taiwan University</em>:<br>Bachelor of Science in <b>Bio-mechatronics Engineering</b><br>Bachelor of Arts in <b>Economics</b>'
 widget1:
     title: "Experiences"
     url: '/experiences/'

@@ -30,6 +30,18 @@ Modular Scale › http://www.modularscale.com//?16,36&px&1.25&web&table
 }
 
 @font-face {
+    font-family: HKGrotesk;
+    src: url(/assets/fonts/HKGrotesk-Regular.otf);
+}
+
+
+@font-face {
+    font-family: HKGrotesk;
+    src: url(/assets/fonts/HKGrotesk-ExtraBold.otf);
+    font-weight: bold;
+}
+
+@font-face {
     font-family: RobotoMono;
     src: url(assets/fonts/RobotoMono-Regular.ttf);
 }
@@ -44,7 +56,7 @@ $rem-base: $base-font-size;
 $base-line-height: 1.5 !default;
 
 
-$font-family-sans-serif: 'Univers', "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-sans-serif: 'HKGrotesk', 'Univers', "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-family-serif: 'Sabon', "Volkhov", Georgia, Times, serif;
 $font-family-monospace: 'RobotoMono', "Lucida Console", Monaco, monospace;
 
