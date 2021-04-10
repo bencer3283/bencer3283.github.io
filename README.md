@@ -14,7 +14,7 @@ The following code are used to add additional font to the css framework:
     src: url(assets/fonts/UniversRegular.ttf);
 }
 `
-Font file used in the website are located in the `assets/css/assets/fonts` folder.
+Font file used in the website are located in the `assets/css/assets/fonts`&`assets/fonts` folder.
 
 ### Colors
 The color are defined in the file `_sass/_01_settings_colors.scss`. Most modification are made to the **Corporate Identity Colorpalette** section.

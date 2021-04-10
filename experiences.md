@@ -8,6 +8,10 @@ title: Professional Experiences
 
 ---
 
+- [Championship thesis on induatrial impact of Convid-19](/experiences/covidthesis)
+    - 2021 National Thesis Competition for College Students
+    - FEB 2021 - APR 2021
+
 - [Gold Medalist, 19th Mobileheroes Awards](/experiences/5G)
     - category of 5G innovative application.
     - SEP 2020 - DEC 2020
