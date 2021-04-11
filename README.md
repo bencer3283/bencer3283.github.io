@@ -27,6 +27,12 @@ Modify the file `_includes/_head.html` to add new variables `page.meta_image` un
 
 The variable are defined in the Front Matter as `meta_image`.
 
+### Column and grid
+Columns or grids are designed using [Foundation](https://get.foundation/sites/docs-v5/components/grid.html).
+
+### Top bar
+Top bar settings are defined in `_sass/_04_settings_global.scss`. I changed the `$topbar-link-weight:` to  `$font-weight-bold;`
+
 
 ## To-Do
 

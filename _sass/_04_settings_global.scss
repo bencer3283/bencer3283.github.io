@@ -1385,7 +1385,7 @@ $topbar-title-font-size: rem-calc(16);
 // $topbar-dropdown-bg: $oil;
 // $topbar-dropdown-link-color: $white;
 // $topbar-dropdown-link-bg: $ci-2;
-// $topbar-dropdown-link-weight: $font-weight-normal;
+// $topbar-dropdown-link-weight: $font-weight-bold;
 // $topbar-dropdown-toggle-size: 5px;
 // $topbar-dropdown-toggle-color: $ci-2;
 // $topbar-dropdown-toggle-alpha: 0.4;
@@ -1395,16 +1395,16 @@ $topbar-link-color: #ffffff;
 // $topbar-link-color-hover: #000;
 // $topbar-link-color-active: #000;
 // $topbar-link-color-active-hover: #000;
-// $topbar-link-weight: $font-weight-normal;
-$topbar-link-font-size: rem-calc(15);
+$topbar-link-weight: $font-weight-bold;
+$topbar-link-font-size: rem-calc(17);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
 // $topbar-link-bg-color-hover: #ff0;
 // $topbar-link-bg-hover: #f00;
 // $topbar-link-bg-active: $primary-color;
 // $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
-// $topbar-link-font-family: $body-font-family;
-$topbar-link-text-transform: uppercase;
+$topbar-link-font-family: $body-font-family;
+// $topbar-link-text-transform: uppercase;
 // $topbar-link-padding: $topbar-height / 3;
 // $topbar-back-link-size: $h5-font-size;
 // $topbar-link-dropdown-padding: 20px;
@@ -1419,7 +1419,7 @@ $topbar-link-text-transform: uppercase;
 // $topbar-dropdown-label-bg: $oil;
 
 // Top menu icon styles
-$topbar-menu-link-transform: uppercase;
+// $topbar-menu-link-transform: uppercase;
 // $topbar-menu-link-font-size: rem-calc(13);
 // $topbar-menu-link-weight: $font-weight-bold;
 // $topbar-menu-link-color: $white;
@@ -1438,7 +1438,7 @@ $topbar-divider-border-bottom: solid 0px scale-color($topbar-bg-color, $lightnes
 $topbar-divider-border-top: solid 0px scale-color($topbar-bg-color, $lightness: -50%);
 
 // Sticky Class
-// $topbar-sticky-class: ".sticky";
+$topbar-sticky-class: ".sticky";
 // $topbar-arrows: true; //Set false to remove the triangle icon from the menu item
 
 // 36. Visibility Classes

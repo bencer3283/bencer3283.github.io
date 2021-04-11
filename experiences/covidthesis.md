@@ -13,13 +13,20 @@ meta_image: https://imgur.com/d9X9VsS.jpg
 
 ## Championship
 `2021 National Thesis Competition for College Students, FEB 2021 - APR 2021`
-![Imgur](https://imgur.com/9vjiGe0.jpg)
+
+<div class="row">
+  <div class="large-4 columns">
+      <ul class="disc">
+         <li><a href="/docs/paper.pdf">Full thesis</a></li>
+         <li><a href="/docs/covid-19.pdf">Presentation slides</a></li>
+      </ul>
+  </div>
+  <div class="large-8 columns">
+     <img src="https://imgur.com/9vjiGe0.jpg">
+  </div>
+</div>
 
 ---
-
-[**Full thesis**](/docs/paper.pdf)
-&
-[**Presentation slides**](/docs/covid-19.pdf)
 
 ## Authors
 
