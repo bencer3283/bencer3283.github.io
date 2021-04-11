@@ -20,3 +20,5 @@ widget1:
 ---
 
 I am a student based in **Taiwan**. This is my personal page and you can find my project, portfolio, academic experience and contact here.
+
+![Imgur](https://imgur.com/CfwNN3n.jpg)
