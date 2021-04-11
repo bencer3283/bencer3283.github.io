@@ -5,6 +5,7 @@ header:
     background-color: "#fabb00"
 title: Intern, 2020
 breadcrumb: true
+meta_description: Towards Automatic Hyperspectral Imaging via the Combination of Sample Navigation Mapping and Laser Scanning Spectral Microscopy. This projected, with development hosted by Lo Chao Yuan, was awarded the 2020 FutureTech Breakthrough Award by MOST of Taiwan.
 ---
 
 `Photonic Workshop, CCMS, National Taiwan University, AUG 2020 - SEP 2020`
