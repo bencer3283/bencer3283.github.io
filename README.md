@@ -23,9 +23,9 @@ The color are defined in the file `_sass/_01_settings_colors.scss`. Most modific
 The homepage of the site is created using the `frontpage` Jekyll layout. The style of the button of the frontpage widget has been modified in `_includes/_frontpage-widget.html`
 
 ### Page mate for seo
-Modify the file `_includes/_head.html` to add new variables `page.image` under the `<!-- Facebook Open Graph -->` section and `<!-- Search Engine Optimization -->` section.
+Modify the file `_includes/_head.html` to add new variables `page.meta_image` under the `<!-- Facebook Open Graph -->` section and `<!-- Search Engine Optimization -->` section.
 
-The variable are defined in the Front Matter as `image`.
+The variable are defined in the Front Matter as `meta_image`.
 
 
 ## To-Do

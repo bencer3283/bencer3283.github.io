@@ -5,8 +5,8 @@ header:
     background-color: "#fabb00"
 title: Covid-19's Impact on Online Video Streaming Platform from The Perspective of Consumer Preference
 breadcrumb: true
-description: We think the most important proposal of this thesis is the fact that the subscription sevices of OTT industry are not in such a good state as it seens like. We also exploer the difference of various consumers' preference on different subscription plans, hoping to figure out the possible future of OTT industry.
-image: https://imgur.com/DGAPMGo.jpg
+meta_description: We think the most important proposal of this thesis is the fact that the subscription sevices of OTT industry are not in such a good state as it seens like. We also exploer the difference of various consumers' preference on different subscription plans, hoping to figure out the possible future of OTT industry.
+meta_image: https://imgur.com/DGAPMGo.jpg
 ---
 
 ---
