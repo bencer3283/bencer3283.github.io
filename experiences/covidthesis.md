@@ -18,6 +18,7 @@ image: https://imgur.com/DGAPMGo.jpg
 ---
 
 [**Full thesis**](/docs/paper.pdf)
+&
 [**Presentation slides**](/docs/covid-19.pdf)
 
 ## Authors
