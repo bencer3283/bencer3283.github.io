@@ -5,6 +5,8 @@ header:
     background-color: "#fabb00"
 title: Covid-19's Impact on Online Video Streaming Platform from The Perspective of Consumer Preference
 breadcrumb: true
+description: We think the most important proposal of this thesis is the fact that the subscription sevices of OTT industry are not in such a good state as it seens like. We also exploer the difference of various consumers' preference on different subscription plans, hoping to figure out the possible future of OTT industry.
+image: https://imgur.com/DGAPMGo.jpg
 ---
 
 ---
@@ -48,7 +50,7 @@ In the results of our survey, we discover that the pattern and medium of how peo
 我們認為本研究最重要的意義在於，提出了 OTT 產業在看似強勁的成長背後，其訂閱制服務的吸引力可能不若表面上強勢。我們也在研究中探討不同族群的消費者是否會傾向不同的方案形式，希冀透夠過這些結果窺見 OTT產業未來的發展走向。
 
 &darr;
-Me sharing our results on the final contest
+Me sharing our results on the final contest.(image by SU, PIN-LUN)
 ![Imgur](https://imgur.com/DGAPMGo.jpg)
 
 ## Relevent Skill
@@ -57,3 +59,5 @@ Me sharing our results on the final contest
 - Chi-square test for independence
 - Logistic regression
 - Latex 
+
+<meta property="og image" content="https://imgur.com/DGAPMGo.jpg">

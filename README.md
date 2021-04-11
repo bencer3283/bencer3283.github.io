@@ -22,6 +22,12 @@ The color are defined in the file `_sass/_01_settings_colors.scss`. Most modific
 ### Homepage
 The homepage of the site is created using the `frontpage` Jekyll layout. The style of the button of the frontpage widget has been modified in `_includes/_frontpage-widget.html`
 
+### Page mate for seo
+Modify the file `_includes/_head.html` to add new variables `page.description` and `page.image` under the `<!-- Facebook Open Graph -->` section and `<!-- Search Engine Optimization -->` section.
+
+These two variable are defined in the Front Matter as `description` and `image`
+
+
 ## To-Do
 
 - homepage edu degree description

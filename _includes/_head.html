@@ -45,7 +45,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="{{ description }}">
+	<meta name="description" content="{{ page.description }}">
 	{% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}">{% endif %}
 	{% if site.bing_webmastertools_id %}<meta name="msvalidate.01" content="{{ site.bing_webmastertools_id }}" >{% endif %}
 	{% if site.yandex_site_verification %}<meta name="yandex-verification" content="{{ site.yandex_site_verification }}">{% endif %}
@@ -57,11 +57,12 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="{{ title }}">
-	<meta property="og:description" content="{{ description }}">
+	<meta property="og:description" content="{{ page.description }}">
 	<meta property="og:url" content="{{ url }}{{ page.url }}">
 	<meta property="og:locale" content="{% if site.og_locale == nil %}en_EN{% else %}{{ site.og_locale }}{% endif %}">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="{{ site.title }}">
+	<meta property="og:image" content="{{ page.image }}">
 	{% if page.image.title %}<meta property="og:image" content="{{ site.urlimg }}{{ page.image.title }}">{% endif %}
 	{% if site.socialmedia.facebook %}<meta property="article:author" content="https://www.facebook.com/{{ site.socialmedia.facebook }}">{% endif %}
 
@@ -72,7 +73,7 @@
 	<meta name="twitter:site" content="{{ site.socialmedia.twitter }}">
 	<meta name="twitter:creator" content="{{ site.socialmedia.twitter }}">
 	<meta name="twitter:title" content="{{ title }}">
-	<meta name="twitter:description" content="{{ description }}">
+	<meta name="twitter:description" content="{{ page.description }}">
 	{% if page.image.title %}<meta name="twitter:image" content="{{ site.urlimg }}{{ page.image.title }}">{% endif %}
 	{% endif %}
 
