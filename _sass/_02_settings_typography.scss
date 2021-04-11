@@ -46,6 +46,24 @@ Modular Scale › http://www.modularscale.com//?16,36&px&1.25&web&table
     src: url(assets/fonts/RobotoMono-Regular.ttf);
 }
 
+@font-face {
+    font-family: TaipeiSansTCBeta;
+    src: url(/assets/fonts/TaipeiSansTCBeta-Bold.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: TaipeiSansTCBeta;
+    src: url(/assets/fonts/TaipeiSansTCBeta-Regular.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: NotoSerifCJKtc-SemiBold;
+    src: url(/assets/fonts/NotoSerifCJKtc-SemiBold.otf);
+    font-weight: normal;
+}
+
 
 /* Fonts
 ------------------------------------------------------------------- */
@@ -56,9 +74,9 @@ $rem-base: $base-font-size;
 $base-line-height: 1.5 !default;
 
 
-$font-family-sans-serif: 'HKGrotesk', 'Univers', "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-family-serif: 'Sabon', "Volkhov", Georgia, Times, serif;
-$font-family-monospace: 'RobotoMono', "Lucida Console", Monaco, monospace;
+$font-family-sans-serif: 'HKGrotesk', 'TaipeiSansTCBeta', 'Univers';
+$font-family-serif: 'Sabon','NotoSerifCJKtc-SemiBold';
+$font-family-monospace: 'RobotoMono';
 
 $body-font-family: $font-family-sans-serif;
 $body-font-weight: normal;

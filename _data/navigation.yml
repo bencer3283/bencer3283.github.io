@@ -1,7 +1,3 @@
-- title: Home
-  url: "/index.html"
-  side: left
-
 - title: "Education"
   url: "/education/school/"
   side: left
