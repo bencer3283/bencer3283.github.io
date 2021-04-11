@@ -5,6 +5,7 @@ header:
     background-color: "#fabb00"
 title: Chairman
 breadcrumb: true
+meta_description: 70th committe for school yearbook editing.
 ---
 
 `70th committe for school yearbook editing, CKSH, 2017-2018`
