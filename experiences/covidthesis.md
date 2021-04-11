@@ -6,7 +6,7 @@ header:
 title: Covid-19's Impact on Online Video Streaming Platform from The Perspective of Consumer Preference
 breadcrumb: true
 meta_description: We think the most important proposal of this thesis is the fact that the subscription sevices of OTT industry are not in such a good state as it seens like. We also exploer the difference of various consumers' preference on different subscription plans, hoping to figure out the possible future of OTT industry.
-meta_image: https://imgur.com/DGAPMGo.jpg
+meta_image: https://imgur.com/d9X9VsS.jpg
 ---
 
 ---
@@ -32,7 +32,9 @@ meta_image: https://imgur.com/DGAPMGo.jpg
 - LU, CHIH-I
 - YANG, CHI-FANG
 
-## Abstract
+## Abstract 
+
+(中文摘要接續在後)
 
 Since the outbreak of the pandemic, many industries have gone a very hard time. But some manages to stand out, one of the example is OTT platform. In this research, we found that active users and profit all gone up during 2020 from the financial report of some representative OTT platform. Well-established players in the market have experienced a hike of profit, and newcomers also manages to hugely reduce their losses.
 
@@ -48,11 +50,11 @@ In the results of our survey, we discover that the pattern and medium of how peo
 
 在問卷調查的結果中，首先我們了解到消費者的觀影習慣有明顯的改變。但多數消費者並不認為疫情使其更傾向訂閱制。而我們夠過統計分析，也發現僅有「家庭方案」這個能夠降低價格的因素，能使訂閱制方案更有吸引力。
 
-我們認為本研究最重要的意義在於，提出了 OTT 產業在看似強勁的成長背後，其訂閱制服務的吸引力可能不若表面上強勢。我們也在研究中探討不同族群的消費者是否會傾向不同的方案形式，希冀透夠過這些結果窺見 OTT產業未來的發展走向。
+我們認為本研究最重要的意義在於，提出了 OTT 產業在看似強勁的成長背後，其訂閱制服務的吸引力可能不若表面上強勢。我們也在研究中探討不同族群的消費者是否會傾向不同的方案形式，希冀透夠過這些結果窺見 OTT產業未來的發展走向。 
 
 &darr;
-Me sharing our results on the final contest.(image by SU, PIN-LUN)
-![Imgur](https://imgur.com/DGAPMGo.jpg)
+Me sharing our results on the final contest.(📷 by SU, PIN-LUN)
+![](https://imgur.com/d9X9VsS.jpg)
 
 ## Relevent Skill
 
