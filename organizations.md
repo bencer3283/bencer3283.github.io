@@ -16,4 +16,4 @@ title: Organization Participation
 
 - [Manager of Academic Activity](/organization/ntuABC)
     - Student Association of College of Bio-Resources and Argiculture
-    - FEB 2020 - JAN 2021
+    - FEB 2020 - JUN 2021

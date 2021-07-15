@@ -11,6 +11,8 @@
   url: "/experiences/"
   side: left
   dropdown:
+  - title: "Intern at BEM Lab, NTU"
+    url: "/experiences/Iot/"
   - title: "Championship thesis on industrial impact of Covid-19"
     url: "/experiences/covidthesis/"
   - title: "Golden Medalist, 19th Mobileheroes Awards"

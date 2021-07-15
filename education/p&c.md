@@ -32,6 +32,7 @@ breadcrumb: true
 ![](https://i.imgur.com/aHJBKKO.png)
 &uarr; final hardware
 
+---
 
 ## Mechanics: walking mechine
 ### Class
@@ -44,6 +45,35 @@ breadcrumb: true
 
 This project actually earned the 3rd position in the class competition. [See brief report](https://bencer3283.github.io/docs/mechanicsReport.pdf)
 
+---
+
+## Heat Transfer Simulation of Soldering a SMD Microcontroller
+### Class
+- (2nd Semester 2020/2021) Heat Transfer **A**
+
+### Skill
+- Solidworks Flow Simulation
+
+The project simulate the heat transfer of a microcontroller when being soldered using different method. [See report](/../../docs/heattransfer.pdf) 
+
+---
+
+## A summary of dynamic gearbox vibration model
+### Class
+- (2nd Semester 2020/2021) Design of Machine Elements **C+**
+
+This [essay](/../../docs/dme.pdf) summarizes the different kinds of gearbox clutch vibration model.
+
+---
+
+## At the tipping point of Taiwan’s car industry
+### Class
+- (2nd Semester 2020/2021) Bio-industrial Engineering Practice **A**
+
+This [presentation](/../../docs/carindustry.pdf) summarizes the past and future of Taiwan’s car industry.
+
+---
+
 ## Cell biology and tissue engineering
 ### Class
 - (1st Semester 2019/2020) Animal Cell Culture and Its Practice, **A+**
@@ -51,15 +81,21 @@ This project actually earned the 3rd position in the class competition. [See bri
 ### Skill
 - basic cell culture
 
+---
+
 ## Basic Indonisian
 ### Class
 - (1st Semester 2018/2019) Indonesian (I)(1), **A+**
 - (2nd Semester 2018/2019) Indonesian (I)(2), **A+**
 
+---
+
 ## Basic Japanese
 ### Class
 - (1st Semester 2018/2019) Japanese (1), **A-**
 - (2nd Semester 2018/2019) Japanese (2), **C+**
+
+---
 
 ## Law
 ### Class
@@ -67,6 +103,8 @@ This project actually earned the 3rd position in the class competition. [See bri
 
 ### Skill
 - basic civil-code
+
+---
 
 ## Sociology
 ### Class

@@ -8,6 +8,10 @@ title: Professional Experiences
 
 ---
 
+- [Intern at Bio-Electromegnetics Labratory](/experiences/Iot/)
+    - National Taiwan University
+    - MAY 2020 - present
+
 - [Championship thesis on industrial impact of Covid-19](/experiences/covidthesis)
     - 2021 National Thesis Competition for College Students
     - FEB 2021 - APR 2021
