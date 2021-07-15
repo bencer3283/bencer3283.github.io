@@ -5,8 +5,8 @@ header:
     background-color: "#fabb00"
 title: Intern
 breadcrumb: true
-meta_description: Towards Automatic Hyperspectral Imaging via the Combination of Sample Navigation Mapping and Laser Scanning Spectral Microscopy. This projected, with development hosted by Lo Chao Yuan, was awarded the 2020 FutureTech Breakthrough Award by MOST of Taiwan.
-meta_image:
+meta_description: a internet of things network comprised of a self-designed intergrated device with temperature, humidity and illumination sensors as the node, and a Raspberry Pi based coordinator to upload informations to a SQL database.
+meta_image: https://imgur.com/3pGto7b.jpg
 ---
 
 `Bio-Electromegnetics Labratory, National Taiwan University. MAY 2020 - `
