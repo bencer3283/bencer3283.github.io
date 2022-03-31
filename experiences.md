@@ -8,6 +8,10 @@ title: Professional Experiences
 
 ---
 
+- [College Student Researcher](/experiences/collegeStudentResearch/)
+    - Photonic Workshop, Center for Condensed Matter Science, National Taiwan University
+    - JUL 2021 - MAR 2022
+
 - [Intern at Bio-Electromegnetics Labratory](/experiences/Iot/)
     - National Taiwan University
     - MAY 2020 - present

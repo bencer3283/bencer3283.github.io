@@ -11,6 +11,8 @@
   url: "/experiences/"
   side: left
   dropdown:
+  - title: "College Student Researcher, NTU"
+    url: "/experiences/collegeStudentResearch/"
   - title: "Intern at BEM Lab, NTU"
     url: "/experiences/Iot/"
   - title: "Championship thesis on industrial impact of Covid-19"
