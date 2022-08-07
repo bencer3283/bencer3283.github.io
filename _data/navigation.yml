@@ -11,6 +11,8 @@
   url: "/experiences/"
   side: left
   dropdown:
+  - title: "Electromechanical Intern, Logitech"
+    url: "/experiences/logi/"
   - title: "College Student Researcher, NTU"
     url: "/experiences/collegeStudentResearch/"
   - title: "Intern at BEM Lab, NTU"

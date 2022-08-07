@@ -8,6 +8,10 @@ title: Professional Experiences
 
 ---
 
+- [Electromechanical Intern](/experiences/logi/)
+    - Logitech
+    - FEB 2022 - JUN 2022
+
 - [College Student Researcher](/experiences/collegeStudentResearch/)
     - Photonic Workshop, Center for Condensed Matter Science, National Taiwan University
     - JUL 2021 - MAR 2022
