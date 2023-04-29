@@ -10,13 +10,14 @@ breadcrumb: true
 ---
 
 ## National Taiwan University
-Forth year as a undergraduate student pursuing the following degrees. 
 - *Bechalor of Science* in [**Bio-Mechatronics Engineering**](https://www.bime.ntu.edu.tw/)
 - *Bechalor of Art* in [**Economics**](http://www.econ.ntu.edu.tw/).
 
 ### Grades
 GPA, grades point average, full score `4.3`.
-[Complete list of classes and grades.](../../docs/b07611002_Transcript_20211028091023.pdf)
+[Complete transcrip of record.](../../docs/complete_transcript005.pdf)
+- 2022/2023
+    - 1st Semester: `3.94`
 - 2021/2022
     - 2nd Semester: `4.3`(PR100@ECON)
     - 1st Semester: `3.64`(PR56@ECON)

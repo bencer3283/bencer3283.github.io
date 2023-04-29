@@ -8,6 +8,10 @@ title: Professional Experiences
 
 ---
 
+- [Ubicomp 2022 Demo: TeleSHift](/experiences/teleshift/)
+    - ACM Ubicomp 2022
+    - SEP 2022
+
 - [Electromechanical Intern](/experiences/logi/)
     - Logitech
     - FEB 2022 - JUN 2022

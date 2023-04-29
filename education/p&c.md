@@ -3,7 +3,7 @@ layout: page
 header:
     image: "logo.png"
     background-color: "#00a2fa"
-title: Academic project and class
+title: Academic project and courses
 breadcrumb: true
 ---
 ---
@@ -13,6 +13,21 @@ breadcrumb: true
 *  TOC
 {:toc}
 </div>
+
+## Measuring the Social Return of Higher Education
+### Courses
+- (2nd Semester 2021/2022) Introductory Econometrics with Recitation
+
+This work aims to measure the spillover effects of government-backed higher education in Taiwan.
+- [Paper](../../docs/econometric_paper.pdf)
+- [Presentation](../../docs/econometric_beamer.pdf)
+- [Source code and data](https://github.com/bencer3283/Social-Return-of-Higher-Education) 
+
+## Liberalism and Education
+### Course
+- (1st Semester 2022/2023) Liberalism, **A-**
+
+This [essay](../../docs/liberalism.pdf) explores the issue of national education from the perspective of Mill's liberalism.
 
 ## Mechatronics: Line tracker and Maze runner
 ### Class

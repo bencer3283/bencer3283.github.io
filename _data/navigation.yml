@@ -4,13 +4,15 @@
   dropdown:
   - title: "Schooling"
     url: "/education/school/"
-  - title: "Project & Class"
+  - title: "Projects & Courses"
     url: "/education/p&c/"
 
 - title: "PRO. Experiences"
   url: "/experiences/"
   side: left
   dropdown:
+  - title: "Ubicomp 2022 Demo: TeleSHift"
+    url: "/experiences/teleshift/"
   - title: "Electromechanical Intern, Logitech"
     url: "/experiences/logi/"
   - title: "College Student Researcher, NTU"
