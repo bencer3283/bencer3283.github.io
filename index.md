@@ -10,11 +10,11 @@ widget3:
 widget2:
     title: "Education"
     url: '/education/school/'
-    text: 'Undergraduate student at <em>National Taiwan University</em>:<br>Bachelor of Science in <b>Bio-mechatronics Engineering</b><br>Bachelor of Arts in <b>Economics</b>'
+    text: '<em>National Taiwan University</em>:<br>Bachelor of Science in <b>Bio-mechatronics Engineering</b><br>Bachelor of Arts in <b>Economics</b>'
 widget1:
     title: "Experiences"
     url: '/experiences/'
-    text: 'Diversified experience in different fields, including <b>eletronics/optics/software engineering, art, statistics, photography</b> and more. Along with lots of experiences as a <b>team leader</b>, I am ready to take on chanllenges that needs integration of various fields.'
+    text: 'Demostrated skills and experiences in <b>IoT devices development, mechanical engineering, software development and data science</b>. Along with my cross-disciplinary perspective, I am ready to take on complex chanllenges that needs integration of various fields.'
 meta_image: https://imgur.com/xvH1xl5.jpg
 ---
 

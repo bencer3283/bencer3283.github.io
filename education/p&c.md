@@ -15,7 +15,7 @@ breadcrumb: true
 </div>
 
 ## Measuring the Social Return of Higher Education
-### Courses
+### Course
 - (2nd Semester 2021/2022) Introductory Econometrics with Recitation
 
 This work aims to measure the spillover effects of government-backed higher education in Taiwan.
@@ -30,7 +30,7 @@ This work aims to measure the spillover effects of government-backed higher educ
 This [essay](../../docs/liberalism.pdf) explores the issue of national education from the perspective of Mill's liberalism.
 
 ## Mechatronics: Line tracker and Maze runner
-### Class
+### Course
 - (2nd Semester 2018/2019) Principles and Applications of Microcontrollers-Mechatronics (1), **A+**
 
 [see final report](https://bencer3283.github.io/docs/MachetronicsFinalReport.pdf)
@@ -50,7 +50,7 @@ This [essay](../../docs/liberalism.pdf) explores the issue of national education
 ---
 
 ## Mechanics: walking mechine
-### Class
+### Course
 -  (2nd Semester 2019/2020) Mechanics (1), **A+**
 
 ### Involved skill
@@ -63,7 +63,7 @@ This project actually earned the 3rd position in the class competition. [See bri
 ---
 
 ## Heat Transfer Simulation of Soldering a SMD Microcontroller
-### Class
+### Course
 - (2nd Semester 2020/2021) Heat Transfer **A**
 
 ### Skill
@@ -74,7 +74,7 @@ The project simulate the heat transfer of a microcontroller when being soldered 
 ---
 
 ## A summary of dynamic gearbox vibration model
-### Class
+### Course
 - (2nd Semester 2020/2021) Design of Machine Elements **C+**
 
 This [essay](/../../docs/dme.pdf) summarizes the different kinds of gearbox clutch vibration model.
@@ -82,7 +82,7 @@ This [essay](/../../docs/dme.pdf) summarizes the different kinds of gearbox clut
 ---
 
 ## At the tipping point of Taiwan’s car industry
-### Class
+### Course
 - (2nd Semester 2020/2021) Bio-industrial Engineering Practice **A**
 
 This [presentation](/../../docs/carindustry.pdf) summarizes the past and future of Taiwan’s car industry.
@@ -90,7 +90,7 @@ This [presentation](/../../docs/carindustry.pdf) summarizes the past and future 
 ---
 
 ## Cell biology and tissue engineering
-### Class
+### Course
 - (1st Semester 2019/2020) Animal Cell Culture and Its Practice, **A+**
 
 ### Skill
@@ -99,21 +99,21 @@ This [presentation](/../../docs/carindustry.pdf) summarizes the past and future 
 ---
 
 ## Basic Indonisian
-### Class
+### Course
 - (1st Semester 2018/2019) Indonesian (I)(1), **A+**
 - (2nd Semester 2018/2019) Indonesian (I)(2), **A+**
 
 ---
 
 ## Basic Japanese
-### Class
+### Course
 - (1st Semester 2018/2019) Japanese (1), **A-**
 - (2nd Semester 2018/2019) Japanese (2), **C+**
 
 ---
 
 ## Law
-### Class
+### Course
 - (1st Semester 2019/2020) Civil Code-general Principles, **A-**
 
 ### Skill
@@ -122,5 +122,5 @@ This [presentation](/../../docs/carindustry.pdf) summarizes the past and future 
 ---
 
 ## Sociology
-### Class
+### Course
 - (2nd Semester 2018/2019) Introductory Sociology (a)(2), **B+**
